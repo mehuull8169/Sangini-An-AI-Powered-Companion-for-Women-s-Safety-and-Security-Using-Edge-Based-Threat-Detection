@@ -306,13 +306,12 @@
   
   ---
   
-  ## Authors
-  
 ## Authors
 
 - **Mehul Jain** — [@mehuull8169](https://github.com/mehuull8169)
 - **Parth Chauhan** — [@ParthChauhan1658](https://github.com/ParthChauhan1658)
 - **Mufiz Arbee** — [@MarbeeGit](https://github.com/MArbeeGit)
+
   ---
   
   ## License

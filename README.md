@@ -314,7 +314,7 @@
 
   ---
   
-  ## License
+## License
   
   This project is for educational and research purposes. See the repository for license details.
   
